@@ -3,6 +3,7 @@ This course follows the IoT for Beginners course from Microsoft's Azure Cloud Ad
 Links to the course:
 
 https://microsoft.github.io/IoT-For-Beginners/#/
+
 https://github.com/microsoft/IoT-For-Beginners
 
 Here are some important information for the course.
