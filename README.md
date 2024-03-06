@@ -40,3 +40,29 @@ Starting from lesson 5 (3rd week), each group prepare the presentation slides fo
 
 ## Final exam (40%)
 - Final test (90 min).
+
+## Set up environment
+- Fork the original github: https://github.com/microsoft/IoT-For-Beginners
+- Create and run codespace on the forked github repo
+- Install python
+
+```bash
+sudo apt-get update
+sudo apt-get install python3-pip
+sudo apt-get install python3-venv
+```
+- Create virtual environment
+
+```bash
+
+python3 -m venv .venv
+```
+- Activate the environment
+```bash
+source .venv/bin/activate
+```
+- Install packages using [requirements.txt](requirements.txt)
+
+```bash
+pip install -r requirements.txt
+```
